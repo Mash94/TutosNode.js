@@ -1,10 +1,12 @@
-Instalar Node.js de su página oficial.
+https://fernando-gaitan.com.ar/introduccion-a-node-js-parte-1-instalacion-hola-mundo/
+
+Instalar Node.js de su pï¿½gina oficial.
 	https://nodejs.org/
 
-Asegurarse incluir Node.js al PATH cuando se realiza la instalación.
+Asegurarse incluir Node.js al PATH cuando se realiza la instalaciï¿½n.
 
 Para ejecutar un servidor con node.js hay que utilizar el CMD de windows. Ir hasta la carpeta donde se encuentre el trabajo.
-Si nuestra carpeta está en otro disco 
+Si nuestra carpeta estï¿½ en otro disco 
 >d:
 >cd <directorio de la carpeta>
 

@@ -1,3 +1,5 @@
+https://fernando-gaitan.com.ar/introduccion-a-node-js-parte-2-crear-pagina-estatica/
+
 El servidor  ante creado aun no es capaz de detectar la petición según la url 
 por la que ha accedido el visitante. Con esto quiero decir que si ingresamos a:
 
