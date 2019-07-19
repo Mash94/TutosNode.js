@@ -1,0 +1,14 @@
+El código que usamos en la Parte2, se encuentra en el archivo principal de nuestra aplicación, index.js, 
+el cual se compila para hacer funcionar la misma. Sin embargo a medida que nuestro 
+sitio vaya creciendo será difícil mantener el código si lo incluimos todo en nuestro archivo principal.
+
+
+Módulos
+Hasta ahora hemos trabajado con la importación de módulos, por ejemplo el módulo http, que nos permite escuchar 
+las peticiones de los visitantes mediante el método createServer(). En Node.js los módulos funcionan de forma muy 
+parecida a las clases, estos tienen funciones que son invocadas desde el objeto o módulo para realizar distintas operaciones.
+
+Para ello vamos a crear un módulo llamado servidor, el cual nos permitirá hacer todo lo que hicimos 
+hasta ahora de escuchar peticiones y cargar archivos, pero desde un módulo.
+
+Vamos a crear una carpeta a la misma altura de index.js llamado modulos, y dentro de esta carpeta crearemos un archivo llamado servidor.js 
